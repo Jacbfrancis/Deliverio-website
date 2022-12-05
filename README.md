@@ -1,4 +1,6 @@
-# Deliverio-website - website for a food delivery company, Created with Tailwind CSS.
+# Deliverio-website -
+
+Website for a food delivery company, Created with Tailwind CSS.
 
 
 
