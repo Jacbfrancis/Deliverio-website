@@ -20,7 +20,7 @@ Website for a food delivery company, Created with Tailwind CSS.
 
 ### Links
 
-- Result so far: [Click Here](https://jacbfrancis.github.io/Deliverio-website)
+- Result so far: [Deliverio](https://jacbfrancis.github.io/Deliverio-website)
 
 ## My process
 
